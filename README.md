@@ -1,2 +1,2 @@
 # threejsdemo
-A threejs demo repositry
+A threejs demo - https://chinmaymoghe.github.io/threejsdemo/
